@@ -1,0 +1,126 @@
+body{
+	margin:0;
+	padding:0;
+}
+#contenedor {
+	background: url(../portada/portada.png) no-repeat left top #fff;
+	display: block;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+}
+#contenedor1 {
+	background-color:#fff;;
+	display: block;
+	height: 768px;
+	margin: 0 auto;
+	overflow: hidden;
+	position: relative;
+	width: 1024px;
+}
+/*GENERAL*/
+
+#trigger-overlay {
+	height: 27px;
+	left: 8px;
+	position: absolute;
+	top: 14px;
+	width: 27px;
+	background: url(../general/menu.png) no-repeat center center;
+	overflow: hidden;
+	border: none;
+}
+#home{
+	width: 27px;
+	height: 27px;
+	position: absolute;
+	left: 8px;
+	top:51px;
+}
+#btnSig{
+	display: block;
+	height: 40px;
+	right:31px;
+	position: absolute;
+	bottom:6px;
+	width: 40px;
+}
+#btnAnt{
+	display: block;
+	height: 40px;
+	right: 100px;
+	position: absolute;
+	bottom:6px;
+	width: 40px;
+}
+#backmenu{
+	display: block;
+	width: 40px;
+	height: 768px;
+	position: absolute;
+	top:0;
+	left: 0;
+}
+/*slide 1*/
+#txt1{
+	position: absolute;
+    bottom: 63px;
+    left: 72px;
+}
+#footer{
+	display: block;
+	width: 1024px;
+	height: 51px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+#head{
+	position: absolute;
+    left: 0;
+    top: 25px;
+    width: 1024px;
+    height: 41px;
+}
+#Logo{
+	position: absolute;
+	right: 32px;
+	bottom: 66px;
+}
+#title{
+	position: absolute;
+    top: 76px;
+    left: 58px;
+}
+#img1{
+	position: absolute;
+    width: 435px;
+    height: 565px;
+    bottom: 51px;
+    left: 80px;
+}
+#bullets1{
+	position: absolute;
+    right: 30px;
+    bottom: 448px;
+}
+#bullets2{
+	position: absolute;
+    right: 104px;
+    bottom: 365px;
+}
+#bullets3{
+	position: absolute;
+    right: 47px;
+    bottom: 255px;
+}
+
+
+
+
+
+
+
+

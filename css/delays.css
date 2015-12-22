@@ -1,0 +1,35 @@
+#trigger-overlay, #btnSig, #btnAnt, #Logo, #backmenu, #head, #home, #footer{
+	-webkit-animation-delay: .7s;
+	-o-animation-delay: .7s;
+	animation-delay: .7s;
+}
+#title{
+	-webkit-animation-delay: .9s;
+	-o-animation-delay: .9s;
+	animation-delay: .9s;
+}
+#txt1{
+	-webkit-animation-delay: 1.2s;
+	-o-animation-delay: 1.2s;
+	animation-delay: 1.2s;
+}
+#img1{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#bullets1{
+	-webkit-animation-delay: 1.7s;
+	-o-animation-delay: 1.7s;
+	animation-delay: 1.7s;
+}
+#bullets2{
+	-webkit-animation-delay: 2.3s;
+	-o-animation-delay: 2.3s;
+	animation-delay: 2.3s;
+}
+#bullets3{
+	-webkit-animation-delay: 2.9s;
+	-o-animation-delay: 2.9s;
+	animation-delay: 2.9s;
+}

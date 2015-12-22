@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tecfidera</title>
+  <link rel="stylesheet" type="text/css" href="css/animate.css">
+  <link rel="stylesheet" type="text/css" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="css/delays.css">
+  <script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+  <div id="contenedor">
+    <a href="slide_1.html"><img style="height:100%" src="portada/gif.gif"></a>
+ 
+  
+
+  </div>  
+  <script type="text/javascript" src="js/hammer.min.js"></script>
+  <script>
+    
+    Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+           window.location.href = "slide_1.html";
+    });
+    Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+           window.location.href = "slide_1.html";
+    });
+    
+
+  </script>
+
+</body>
+</html>
