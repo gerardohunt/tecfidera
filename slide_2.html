@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Tecfidera</title>
+	<link rel="stylesheet" type="text/css" href="css/animate.css">
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/delays.css">
+	<script src="js/modernizr.custom.js"></script>
+</head>
+<body id="touch">
+	<div id="contenedor1">
+		<!--GENERAL-->
+
+		<div id="footer" class="animated fadeInUp"> <img src="general/back-footer.png"></div>
+
+		<div id="btnSig" class="animated fadeInDown"><a href="slide_3.html"><img src="general/next.png"></a></div>
+
+		<div id="btnAnt" class="animated fadeInDown"><a href="slide_1.html"><img src="general/back.png"></a></div>
+
+		<div id="head" class="animated fadeInDown"><img src="general/head.png"></div>
+
+		<div id="backmenu" class="animated fadeInDown"><img src="general/back-menu.png"></div>
+
+		<!--Menu-->
+		<button type="button" id="trigger-overlay" class="animated fadeInDown"></button>
+		<!--Menu-->
+		
+		<div id="home" class="animated fadeInDown"><a href="index.html"><img src="general/home.png"></a></div>
+		
+		
+
+		<div id="title" class="animated fadeInLeft"><img src="slide2/title.png"></div>
+
+		<!--imagen-->
+
+		<div id="img2" class="animated zoomIn"><img src="slide2/img01.png"></div>
+
+		<!--texto-->
+		<div id="txt2" class="animated fadeInLeft"><img src="slide2/txt01.png"></div>
+
+		<div id="txt3" class="animated zoomIn"><img src="slide2/txt02.png"></div>
+
+		<div id="txt4" class="animated zoomIn"><img src="slide2/txt03.png"></div>
+
+		<div id="txt1" class="animated fadeInLeft"><img src="slide2/txt04.png"></div>
+
+		<!--bullets-->
+		<div id="bullets4" class="animated fadeInUp"><img src="slide2/bullet01.png"></div>
+
+		<div id="bullets5" class="animated fadeInUp"><img src="slide2/bullet02.png"></div>
+
+		<div id="bullets6" class="animated fadeInUp"><img src="slide2/bullet03.png"></div>
+
+		<!--flecha-->
+		<div id="flecha1" class="animated rotateInDownLeft"><img src="slide2/flecha01.png"></div>
+
+		<div id="flecha2" class="animated rotateInDownLeft"><img src="slide2/flecha02.png"></div>
+
+
+
+		<div id="Logo" class="animated fadeInUp"> <img src="general/logo.png"></div>
+		
+
+
+
+	</div>	
+	<script type="text/javascript" src="js/hammer.min.js"></script>
+	<script>
+		
+		Hammer(document.getElementById('touch')).on('swipeleft', function(e) {
+		       window.location.href = "slide_3.html";
+		});
+		Hammer(document.getElementById('touch')).on('swiperight', function(e) {
+		       window.location.href = "slide_1.html";
+		});
+
+	</script>
+	
+</body>
+</html>

@@ -116,9 +116,51 @@ body{
     right: 47px;
     bottom: 255px;
 }
-
-
-
+#txt2{
+	position: absolute;
+    top: 144px;
+    left: 58px;
+}
+#img2{
+	position: absolute;
+    right: 36px;
+    bottom: 141px;
+}
+#txt3{
+	position: absolute;
+    top: 210px;
+    left: 71px;
+}
+#flecha1{
+	position: absolute;
+    left: 275px;
+    top: 187px;
+}
+#txt4{
+	position: absolute;
+	left: 71px;
+	bottom:363px;
+}
+#bullets4{
+	position: absolute;
+	left: 71px;
+	bottom:281px;
+}
+#bullets5{
+	position: absolute;
+	left: 71px;
+	bottom:211px;
+}
+#bullets6{
+	position: absolute;
+	left: 71px;
+	bottom:131px;
+}
+#flecha2{
+	position: absolute;
+	bottom: 367px;
+	left: 282px;
+}
 
 
 
