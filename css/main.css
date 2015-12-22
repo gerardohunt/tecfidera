@@ -255,3 +255,73 @@ body{
     bottom: 109px;
     left: 68px;
 }
+#txt8{
+	position: absolute;
+	top:163px;
+	left: 57px;
+}
+#img19{
+	position: absolute;
+    top: 267px;
+    left: 67px;
+}
+#img20{
+	position: absolute;
+    left: 127px;
+    bottom: 320px;
+}
+#img21{
+	position: absolute;
+    bottom: 320px;
+    left: 200px;
+}
+#img23{
+	position: absolute;
+    top: 261px;
+    left: 368px;
+}
+#img24{
+	position: absolute;
+    left: 446px;
+    top: 393px;
+}
+#img25{
+	position: absolute;
+    left: 517px;
+    top: 426px;
+}
+#img26{
+	position: absolute;
+    left: 449px;
+    top: 368px;
+}
+#img27{
+	position: absolute;
+    right: 108px;
+    bottom: 268px;
+}
+#img28{
+	position: absolute;
+    right: 203px;
+    top: 425px;
+}
+#img29{
+	position: absolute;
+    right: 131px;
+    top: 427px;
+}
+#img30{
+	position: absolute;
+    right: 27px;
+    top: 376px;
+}
+#img22{
+	position: absolute;
+    left: 127px;
+    top: 268px;
+}
+#txt9{
+	position: absolute;
+    right: 20px;
+    bottom: 223px;
+}
