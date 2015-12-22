@@ -161,8 +161,64 @@ body{
 	bottom: 367px;
 	left: 282px;
 }
+#img3{
+	position: absolute;
+    left: 65px;
+    top: 235px;
 
+}
+#img4{
+	position: absolute;
+    left: 118px;
+    top: 291px;
+}
+#img5{
+	position: absolute;
+    left: 191px;
+    top: 336px;
+}
+#img6{
+	position: absolute;
+    top: 422px;
+    left: 282px;
+}
+#img7{
+	position: absolute;
+    top: 317px;
+    left: 193px;
+}
+#img8{
+	position: absolute;
+    right: 20px;
+    top: 235px;
 
+}
+#img9{
+	position: absolute;
+    right: 169px;
+    top: 291px;
+}
 
+#img10{
+	position: absolute;
+    right: 287px;
+    top: 321px;
+}
+
+#img11{
+	position: absolute;
+    right: 197px;
+    top: 402px;
+}
+#img12{
+	position: absolute;
+    right: 67px;
+    top: 301px;
+}
+#txt5{
+	position: absolute;
+    bottom: 169px;
+    left: 347px;
+}
 
 
