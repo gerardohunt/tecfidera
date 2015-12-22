@@ -220,5 +220,38 @@ body{
     bottom: 169px;
     left: 347px;
 }
-
-
+#img13{
+	position: absolute;
+    left: 205px;
+    top: 331px;
+}
+#img14{
+	position: absolute;
+    left: 291px;
+    top: 398px;
+}
+#img16{
+	position: absolute;
+    right: 283px;
+    top: 389px;
+}
+#img17{
+	position: absolute;
+    top: 421px;
+    right: 197px;
+}
+#img15{
+	position: absolute;
+    left: 205px;
+    top: 313px;
+}
+#img18{
+	position: absolute;
+    right: 68px;
+    top: 371px;
+}
+#txt7{
+	position: absolute;
+    bottom: 109px;
+    left: 68px;
+}
