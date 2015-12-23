@@ -386,20 +386,40 @@ body{
     top: 382px;
     left: 121px;
 }
+#img34new{
+	 position: absolute;
+    top: 416px;
+    left: 126px;
+}
 #img32{
 	position: absolute;
     top: 473px;
     left: 109px;
+}
+#img32new{
+	position: absolute;
+	top: 475px;
+    left: 114px;
 }
 #img33{
 	 position: absolute;
     left: 108px;
     top: 379px;
 }
+#img33new{
+	 position: absolute;
+    left: 112px;
+    top: 414px;
+}
 #img35{
 	position: absolute;
     left: 268px;
     top: 341px;
+}
+#img35new{
+	position: absolute;
+    left: 289px;
+    top: 373px;
 }
 #img36{
 	position: absolute;
