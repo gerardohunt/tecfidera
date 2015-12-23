@@ -270,10 +270,21 @@ body{
     left: 127px;
     bottom: 322px;
 }
+#img220{
+	position: absolute;
+    left: 134px;
+    bottom: 330px;
+	}
+
 #img21{
 	position: absolute;
     bottom: 322px;
     left: 200px;
+}
+#img221{
+	position: absolute;
+    bottom: 330px;
+    left: 204px;
 }
 #img23{
 	position: absolute;
@@ -285,15 +296,30 @@ body{
     left: 446px;
     top: 393px;
 }
+#img224{
+	position: absolute;
+    left: 452px;
+    top: 378px;
+}
 #img25{
 	position: absolute;
     left: 517px;
     top: 428px;
 }
+#img325{
+	position: absolute;
+    left: 521px;
+    top: 411px;
+}
 #img26{
 	position: absolute;
     left: 448px;
     top: 368px;
+}
+#img326{
+	position: absolute;
+    left: 452px;
+    top: 353px;
 }
 #img27{
 	position: absolute;
@@ -305,20 +331,40 @@ body{
     right: 203px;
     top: 428px;
 }
+#img328{
+	position: absolute;
+    right: 201px;
+    top: 360px;
+}
 #img29{
 	position: absolute;
     right: 131px;
     top: 429px;
+}
+#img329{
+	position: absolute;
+    right: 130px;
+    top: 414px;
 }
 #img30{
 	position: absolute;
     right: 26px;
     top: 377px;
 }
+#img330{
+	position: absolute;
+    right: 26px;
+    top: 345px;
+}
 #img22{
 	position: absolute;
     left: 127px;
     top: 268px;
+}
+#img222{
+	position: absolute;
+    left: 136px;
+    top: 282px;
 }
 #txt9{
 	position: absolute;
