@@ -547,3 +547,53 @@ body{
     right: 98px;
     top: 144px;
 }
+#txt22{
+	position: absolute;
+    top: 141px;
+    left: 65px;
+}
+#txt23{
+	position: absolute;
+    top: 175px;
+    left: 65px;
+}
+#img63{
+	position: absolute;
+    top: 233px;
+    left: 257px;
+}
+#txt24{
+	position: absolute;
+    top: 390px;
+    left: 83px;
+}
+#txt25{
+	position: absolute;
+    top: 390px;
+    left: 543px;
+}
+#img61{
+	position: absolute;
+    top: 440px;
+    left: 543px;
+}
+#img62{
+	position: absolute;
+    top: 505px;
+    left: 543px;
+}
+#img58{
+	position: absolute;
+    top: 440px;
+    left: 83px;
+}
+#img59{
+	position: absolute;
+    top: 505px;
+    left: 83px;
+}
+#img60{
+	position: absolute;
+    top: 567px;
+    left: 83px;
+}
