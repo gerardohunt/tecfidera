@@ -647,3 +647,23 @@ body{
     top: 190px;
     left: 228px;
 }
+#img74{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+}
+#img75{
+    position: absolute;
+    right: 20px;
+    top: 150px;
+}
+#img76{
+    position: absolute;
+    right: 0;
+    top:0;
+}
+#img77{
+    position: absolute;
+    bottom: 30px;
+    right: 434px;
+}
