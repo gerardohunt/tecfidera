@@ -383,7 +383,7 @@ body{
 }
 #img34{
 	 position: absolute;
-    top: 382px;
+    top: 381px;
     left: 121px;
 }
 #img34new{
@@ -648,42 +648,24 @@ body{
     left: 228px;
 }
 #img74{
-<<<<<<< HEAD
+
 	position: absolute;
-    left: 63px;
-    top: 167px;
-}
-#img75{
-	position: absolute;
-    right: 3px;
-    top: 167px;
-}
-#img76{
-	position: absolute;
-	right: 0;
-}
-#img77{
-	 position: absolute;
-    bottom: 45px;
-    left: 420px;
-=======
-    position: absolute;
     left: 60px;
     top: 150px;
 }
 #img75{
-    position: absolute;
+	position: absolute;
     right: 20px;
     top: 150px;
 }
 #img76{
-    position: absolute;
+	position: absolute;
     right: 0;
     top:0;
 }
 #img77{
-    position: absolute;
+	position: absolute;
     bottom: 30px;
     right: 434px;
->>>>>>> origin/master
+
 }
